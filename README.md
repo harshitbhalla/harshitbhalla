@@ -10,12 +10,10 @@ Using Python as my core tool, I combine creativity and pragmatism to deliver sol
 🛠️ Let’s connect if you’re looking for someone who can build smart systems that scale, or if you want to collaborate on open-source AI projects that push the boundaries of what’s possible.
 
 ## Skills & Expertise
-Feel free to add your specific skills under the "Skills & Expertise" section!- Machine Learning & AI: Deep understanding of algorithms and model development.
-
-Analytics: Expertise in extracting insights from complex datasets.
-Deep Learning: Experience with frameworks such as TensorFlow and PyTorch.
-Computer Vision & Time Series Analysis: Specialization in advanced analytical techniques.
-Cloud Computing: Proficient in leveraging AWS for scalable solutions and MLOps.
+* Analytics: Expertise in extracting insights from complex datasets.
+* Deep Learning: Experience with frameworks such as TensorFlow and PyTorch.
+* Computer Vision & Time Series Analysis: Specialization in advanced analytical techniques.
+* Cloud Computing: Proficient in leveraging GCP for scalable solutions and MLOps.
 
 
 <!--
