@@ -1,4 +1,14 @@
-## Hi there 👋
+## About me
+With a strong foundation in the Technology sector, I am a dedicated practitioner focused on building impactful, scalable AI solutions. I specialize in **Machine Learning, Deep Learning, and AI-driven product development**, with a proven ability to translate raw data into actionable intelligence.
+
+As a **TensorFlow Certified Developer** and **AWS Certified Cloud Practitioner**, I bring a robust understanding of model development, cloud architecture, and production-ready ML pipelines. I have extensive hands-on experience building NLP and vision-based solutions using **Hugging Face Transformers**, leveraging both the pipeline API and custom fine-tuning workflows, combined with **PyTorch** and **TensorFlow** for optimal performance.
+
+My work includes large-scale deployment using **Vertex AI**, data wrangling with **BigQuery**, and end-to-end ML system design on **GCP**. I’m deeply interested in MLOps, model monitoring, and serving systems that go beyond notebooks into real-world impact.
+
+Using Python as my core tool, I combine creativity and pragmatism to deliver solutions in computer vision, time series forecasting, and language modeling. Whether building proof-of-concept models or scaling enterprise-grade solutions, my goal is to translate data into strategic action and sustainable value.
+
+🛠️ Let’s connect if you’re looking for someone who can build smart systems that scale, or if you want to collaborate on open-source AI projects that push the boundaries of what’s possible.
+
 
 <!--
 **harshitbhalla/harshitbhalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
