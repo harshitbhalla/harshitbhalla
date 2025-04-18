@@ -1,5 +1,5 @@
 ## About me
-With a strong foundation in the Technology sector, I am a dedicated practitioner focused on building impactful, scalable AI solutions. I specialize in **Machine Learning, Deep Learning, and AI-driven product development**, with a proven ability to translate raw data into actionable intelligence.
+With a strong foundation in the Technology sector, I am a dedicated practitioner focused on building impactful and scalable AI solutions. I specialize in **Machine Learning, Deep Learning, and AI-driven product development**, with a proven ability to translate raw data into actionable intelligence.
 
 As a **TensorFlow Certified Developer** and **AWS Certified Cloud Practitioner**, I bring a robust understanding of model development, cloud architecture, and production-ready ML pipelines. I have extensive hands-on experience building NLP and vision-based solutions using **Hugging Face Transformers**, leveraging both the pipeline API and custom fine-tuning workflows, combined with **PyTorch** and **TensorFlow** for optimal performance.
 
