@@ -14,6 +14,7 @@ Using Python as my core tool, I combine creativity and pragmatism to deliver sol
 * Deep Learning: Experience with frameworks such as TensorFlow and PyTorch.
 * Computer Vision & Time Series Analysis: Specialization in advanced analytical techniques.
 * Cloud Computing: Proficient in leveraging GCP for scalable solutions and MLOps.
+* Retrieval-Augmented Generation (RAG) 
 
 
 <!--
