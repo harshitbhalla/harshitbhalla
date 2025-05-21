@@ -1,0 +1,7 @@
+transformers
+torch
+Pillow
+opencv-python
+numpy
+streamlit
+huggingface_hub
